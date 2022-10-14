@@ -1,6 +1,6 @@
 {
   "name": "all-page-table",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "all page table",
   "main": "index.js",
   "scripts": {
